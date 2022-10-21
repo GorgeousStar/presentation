@@ -1,0 +1,188 @@
+*{
+   padding: 0;
+}
+.box1{
+    width: 20%;
+    height: 700px;
+    background-color: blue;
+}
+h2{
+    text-align: center;
+    color: cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+}
+.box2{
+    width: 80%;
+    height: 700px;
+    background-color: whitesmoke;
+}
+.box{
+    display: flex;
+}
+.dan{
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+.li1{
+    display: flex;
+}
+span{
+    padding: 10px;
+}
+.li1,.li2{
+    padding: 10px;
+}
+.li2{
+    list-style-type: none;
+
+}
+li{
+    list-style-type: none;
+    color: whitesmoke;
+}
+li:hover{
+    background-color: mediumblue;
+    padding: 20px;
+}
+input{
+    border-radius: 15px;
+    margin-left: 40px;
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+h3{
+    margin-left: 40px;
+}
+.toyota{
+    width: 30%;
+    height: 80px;
+    background-color: white;
+    margin-left: 40px;
+    color: grey;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+img{
+    width: 30%;
+    height: 40px;
+    margin-left: 150px;
+}
+.today{
+    width: 30%;
+    height: 80px;
+    background-color: white;
+    color: gray;
+    padding-top: 10px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+.general{
+    display: flex;
+}
+.total{
+    width: 26%;
+    height: 80px;
+    background-color: white;
+    color: gray;
+    padding-top: 10px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+}
+.active{
+    width: 30%;
+    height: 80px;
+    background-color: white;
+    margin-left: 40px;
+    color: grey;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+.pending{
+    width: 30%;
+    height: 80px;
+    background-color: white;
+    color: gray;
+    padding-top: 10px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+.withdrawal{
+    width: 26%;
+    height: 80px;
+    background-color: white;
+    color: gray;
+    padding-top: 10px;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+.general1{
+    display: flex;
+}
+.graph{
+    width: 63%;
+    height: 300px;
+    background-color: white;
+    padding-top: 10px;
+    margin-left: 40px;
+    padding-left: 10px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pic{
+    width: 70%; 
+    height: 250px;
+}
+.campaign{
+    width: 28%;
+    height: 310px;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-left: 10px;
+    overflow-x: scroll;
+}
+.general2{
+    display: flex;
+}
+p{
+    padding-bottom: 10px;
+    display: inline;
+}
+.all.B{
+    display: flex;
+    margin-top: 10px;
+}
+.button1{
+    margin-right: 5px;
+    margin-left: 50px;
+    width: 25%;
+    background-color: lime;
+    color: whitesmoke;
+    text-align: center;
+}
+.button2{
+    width: 25%;
+    background-color: red;
+    color: whitesmoke;
+    text-align: center;
+}
+span{
+    font-size: 20px;
+}
+a{
+    color: black;
+    margin-left: 80px;
+}

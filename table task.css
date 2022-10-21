@@ -1,0 +1,20 @@
+ table{ 
+      border-collapse: collapse;
+    margin: auto;
+}
+td,th{
+    text-align: left;
+    padding: 5px;
+}
+tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+body{
+    background-color: black;
+}
+tr:nth-child(even) {
+    background-color: white;
+}
+.tablediv{
+    padding-top: 80px;
+}
